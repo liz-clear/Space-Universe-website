@@ -1,0 +1,38 @@
+body{ /*se cambia todo que ve el usuario BODY*/
+    background-color: rgb(129, 162, 206); /*En la pagina se busca el nombre y se copia con #*/
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+img{
+    width: 20%; /* Se recomienda uno solamentePor porcentaje o pixeles tamano de la imagen y asi se llama el elemento*/
+    /*height: 20px;*/
+    border-radius: 20px;
+    border-color: rgb(247, 239, 239);
+
+}
+.CIELO{
+    width: 300px;
+} /*Modificar solo una imagen*/ 
+
+.astrobiologia{ /*asignar clase y el nombre con el que se llamara en CSS*/
+    font-size: 40px;
+    color: azure;
+}
+
+.origen{ /*cambiar familia de un parrafo*/
+    font-family: 'Times New Roman', Times, serif;
+}
+.misiones{
+    color: beige;
+}
+.web{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: honeydew;
+
+}
+
+/*
+selector{
+    propiedad : valor;
+
+} */
